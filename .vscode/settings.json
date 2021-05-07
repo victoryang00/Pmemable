@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.fc": "fortran-modern",
+        "string.h": "c",
+        "perf_event.h": "c",
+        "memcpy_avx.h": "c"
+    }
+}
