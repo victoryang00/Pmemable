@@ -134,6 +134,7 @@ int main(int argc, char *argv[])
 	char *secret2 = malloc(1);
 	*secret2 = 12;
 	int fd;
+	
 	char *probe_buffer = malloc(PROBE_BUFFER_SIZE);
 	memset(probe_buffer, 0, PROBE_BUFFER_SIZE);
 	unsigned int probing_times[256];
