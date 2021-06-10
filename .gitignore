@@ -1,0 +1,5 @@
+.vscode
+settings.json
+lib
+*.o
+res*
